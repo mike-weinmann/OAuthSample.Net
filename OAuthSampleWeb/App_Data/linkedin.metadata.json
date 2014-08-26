@@ -1,0 +1,6 @@
+﻿{
+	"issuer": "linked.com",
+	"authorization_endpoint": "https://www.linkedin.com/uas/oauth2/authorization",
+	"token_endpoint": "https://www.linkedin.com/uas/oauth2/accessToken",
+	"userinfo_endpoint": "https://api.linkedin.com/v1/people/~"
+}

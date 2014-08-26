@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthSampleWeb", "OAuthSampleWeb\OAuthSampleWeb.csproj", "{AE18318F-4FF1-4EAF-AC3C-11445FB21370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthSample", "OAuthSample\OAuthSample.csproj", "{B79A37EC-A416-4A16-8CAF-9A36C0910F71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE18318F-4FF1-4EAF-AC3C-11445FB21370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE18318F-4FF1-4EAF-AC3C-11445FB21370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE18318F-4FF1-4EAF-AC3C-11445FB21370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE18318F-4FF1-4EAF-AC3C-11445FB21370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B79A37EC-A416-4A16-8CAF-9A36C0910F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79A37EC-A416-4A16-8CAF-9A36C0910F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79A37EC-A416-4A16-8CAF-9A36C0910F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79A37EC-A416-4A16-8CAF-9A36C0910F71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
